@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://otagobioinformaticsspringschool.github.io/intro-hpc/</loc>
+         <lastmod>2025-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://otagobioinformaticsspringschool.github.io/intro-hpc/workshop_material/supplementary/99_appendix_setup_on_your_machine/</loc>
+         <lastmod>2025-11-11</lastmod>
+    </url>
+    <url>
+         <loc>https://otagobioinformaticsspringschool.github.io/intro-hpc/workshop_material/supplementary/99_appendix_use_conda_environments/</loc>
+         <lastmod>2025-11-11</lastmod>
+    </url>
+</urlset>
