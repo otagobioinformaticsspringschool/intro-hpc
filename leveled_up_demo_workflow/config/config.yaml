@@ -1,6 +1,0 @@
-# set software parameters for...
-PARAMS:
-  # ... fastqc
-  FASTQC: "--kmers 5"
-  # ... multiqc
-  MULTIQC: "--flat"

@@ -1,12 +1,12 @@
-site_name: Automate Your Workflow With Snakemake
+site_name: "Introduction: HPC and job scheduler"
 site_author: "Original: NeSI. Modifified for OBSS"
 site_dir: public
-site_url: "https://otagobioinformaticsspringschool.github.io/snakemake_workshop"
+site_url: "https://otagobioinformaticsspringschool.github.io/intro-hpc"
 
 #Repository information
 
-repo_name:  otagobioformaticsspringschool/snakemake_workshop 
-repo_url: https://github.com/otagobioinformaticsspringschool/snakemake_workshop
+repo_name:  otagobioformaticsspringschool/intro-hpc
+repo_url: https://github.com/otagobioinformaticsspringschool/intro-hpc
 
 
 theme:
@@ -82,8 +82,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -118,7 +118,7 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright : Snakemake workshop material is licensed under a <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>
+copyright : Workshop material is licensed under a <a rel="noopener" target="_blank" href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution license</a>
 
 
 extra_css:
