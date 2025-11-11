@@ -152,7 +152,7 @@ There are a number of different environment module implementations commonly used
 
 ## Working with job scheduler
 
-<center>![image](./images/scheduler_image.png){width="500"}</center>
+![image](./images/scheduler_image.png){width="500"}
 
 An HPC system might have thousands of nodes and thousands of users. How do we decide who gets what and when? How do we ensure that a task is run with the resources it needs? This job is handled by a special piece of software called the scheduler. On an HPC system, the scheduler manages which jobs run where and when. In brief, scheduler is a 
 
@@ -175,7 +175,7 @@ An HPC system might have thousands of nodes and thousands of users. How do we de
     * PBS , Torque
     * Grid Engine
 
-    <center>![image](./images/slurm_comms2compute.png){width="800"}</center>
+    ![image](images/slurm_comms2compute.png){width="800"}
 
     <small>Researchers can not communicate directly to  Compute nodes from the login node. Only way to establish a connection OR send scripts to compute nodes is to use scheduler as the carrier/manager</small>
 
