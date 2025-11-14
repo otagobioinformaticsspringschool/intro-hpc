@@ -65,6 +65,9 @@ REANNZ Mahuika cluster system consists of a number of different node types. The 
 
     - Jupyter terminal should be treated as a **login** node. .i.e. Just like what we have done so far; use it to develop, test and debug scripts but do not to deploy the production level workflow interactively.
 
+    !!! important "No access to slurm within Jupyter"
+        
+        Slurm commands such as `srun`, `sbatch`, `sacct`, and `squeue` are not available within the JupyterLabs terminal, and instead you need to run these from the login node which from OnDemand is accessed from the OnDemand dashboard top menu "Clusters" -> "NeSI HPC Cluster"
 
 ### From Hardware to Software
 
