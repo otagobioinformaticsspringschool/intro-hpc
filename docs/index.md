@@ -33,9 +33,9 @@ The simplest way of defining high-performance computing is by saying that it is 
     * The network interconnect – this dictates the communication speed between nodes. The faster this speed is, the more a group of individual nodes will act like a unit.
 
 
-### NeSI Mahuika Cluster architecture
+### REANNZ Mahuika Cluster architecture
 
-NeSI Mahuika cluster (CRAY HPE CS400) system consists of a number of different node types. The ones visible to researchers are:
+REANNZ Mahuika cluster system consists of a number of different node types. The ones visible to researchers are:
 
 
 * Login nodes
